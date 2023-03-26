@@ -1,0 +1,501 @@
+Company,Revenue,Profit
+General Motors,"16,494.80","1,591.80"
+Exxon Mobil,"10,264.30","1,019.50"
+Ford Motor,"8,742.50",488.5
+General Electric,"4,918.70",270.6
+Mobil,"4,352.10",271.9
+U.S. Steel,"3,599.30",203.5
+Chrysler,"3,505.30",161.6
+Texaco,"3,415.70",545.7
+Gulf Oil,"2,977.90",371.4
+AT&T Technologies,"2,833.00",140.5
+DuPont,"2,584.60",472.3
+Esmark,"2,473.40",17.1
+Amoco,"2,226.90",183.1
+ChevronTexaco,"2,202.50",322.1
+Shell Oil,"2,128.60",179.9
+CBS,"2,127.30",47.8
+Bethlehem Steel,"2,095.80",102.5
+Intl. Business Machines,"2,059.60",290.5
+Navistar International,"1,957.40",68.3
+Lockheed Martin,"1,930.50",43.3
+Rockwell Automation,"1,867.10",41.2
+Kraft,"1,839.00",54
+Armour,"1,810.60",16.3
+RCA,"1,779.10",66
+Boeing,"1,771.40",21.7
+Goodyear Tire & Rubber,"1,731.10",81.1
+Union Carbide,"1,668.20",160.2
+Procter & Gamble,"1,654.50",115.8
+General Telephone & Electronics,"1,443.40",105.1
+General Dynamics,"1,415.10",82.7
+ITT Industries,"1,414.10",52.4
+Firestone Tire & Rubber,"1,382.00",63.4
+United Technologies,"1,281.10",21.4
+ConocoPhillips,"1,274.70",113.9
+Sperry,"1,227.10",13.8
+General Foods,"1,216.20",78.6
+Citgo Petroleum,"1,213.90",77.5
+Sinclair Oil,"1,211.50",75.2
+Monsanto,"1,192.30",83
+Continental Group,"1,154.00",40.1
+American Can,"1,149.40",44.1
+Conoco,"1,147.10",87.4
+International Paper,"1,144.60",69.4
+American Motors,"1,132.40",37.8
+Borden Chemical,"1,118.90",35.1
+Republic Steel,"1,114.20",55.5
+Eastman Kodak,"1,106.70",144.4
+Burlington Industries Equity,"1,084.90",40.6
+GenCorp,"1,084.20",34.7
+Uniroyal,980.2,22.1
+Alcoa,972.1,51.1
+Dow Chemical,967.7,80.7
+Martin Marietta,966.6,34.6
+Caterpillar,966.1,77.3
+Honeywell Intl.,963.1,72.2
+Nabisco Group Holdings,961.6,129.1
+ARMCO,933.4,65.9
+Bestfoods,856.9,50.3
+National Intergroup,846.5,63.8
+Sunoco,844.1,61.2
+Jones & Laughlin Steel,835.8,44.4
+Goodrich,828.8,27.1
+Bendix,813.1,22.2
+Ryerson Tull,808.1,56.1
+Ralston Purina,807.8,23.3
+Singer,790.2,41.5
+Olin,779.2,37
+PPG Industries,778.5,45.6
+3M,761.8,90.6
+Colgate-Palmolive,722,23.8
+American Cyanamid,710.5,66.3
+Anaconda,708.6,45.3
+AMAX,706.9,37.8
+Wilson,700.1,7.3
+Douglas Aircraft,698.3,11.8
+BorgWarner,688.5,37.7
+Fortune Brands,678,68.8
+Tidewater Oil,661.7,43.8
+Owens-Illinois,654.1,39.5
+Honeywell,648.5,34.7
+Deere,639.1,45.7
+Campbell Soup,638.2,43.8
+Coca-Cola,637.4,52.4
+Youngstown Sheet & Tube,626.9,38.9
+Atlantic Richfield,624.3,44
+NL Industries,618.6,49.6
+FMC,618,32.6
+Crown Zellerbach,616.6,39.3
+Morrell (John),613.4,2.5
+J.P. Stevens,609.4,13.3
+Pure Oil,597.7,29.8
+Sealed Air,596.8,28.5
+St. Regis,593.9,19.4
+NCR,592.6,20.1
+Textron,587,18
+Weyerhaeuser,581.9,44.2
+Nabisco Brands,578.4,33.9
+White Motor,572.4,15.5
+Beatrice,569.5,13
+Reynolds Metals,565.6,27.8
+McDonnell Douglas,565.3,17
+Litton Industries,553.1,23.3
+Asarco,544.5,29.3
+Allis-Chalmers,543.9,6.9
+Kimberly-Clark,539,33.9
+Whirlpool,538.7,15.1
+Standard Brands,535.1,21.5
+Wyeth,532.4,56.9
+American Standard,527.5,16.7
+General Mills,523.9,14.9
+Avco,514.1,22.4
+Kennecott,504.9,57
+Unocal,502.1,53.9
+BP America,500.7,33.9
+Raytheon,488.9,0.1
+United Merchants & Mfrs.,488.1,10.8
+Eaton,487.2,24.5
+Sunray DX Oil,483.5,41.9
+TRW,482.6,15.2
+Hercules,476.5,31.9
+Continental Baking,476,8.8
+Quantum Chemical,470.5,22.8
+Grumman,468.2,7.6
+Mead,467.7,15
+Marathon Oil,466.2,49.1
+H.J. Heinz,464.2,12.4
+Georgia-Pacific,451,28.5
+Pullman,438.5,7
+Kaisertech,437.1,23.4
+Amstar,435.7,10.1
+Carnation,435.4,14
+Hygrade Food Products,424.7,0.6
+Lever Brothers,414.9,12.7
+Manville,414.9,27.7
+Pfizer,414.3,40.3
+IPL,408.6,4.5
+Pillsbury,407.7,7.8
+Studebaker,403.3,-80.9
+Foremost Dairies,402.8,6.1
+Ogden,400.6,3.1
+Genesco,400.5,8.1
+Norton Simon,399.5,8.4
+Hormel Foods,393.7,3
+Altria Group,388,22.1
+Unisys,387.4,8.5
+Del Monte Foods,385.8,15.9
+Motorola,377.9,12.9
+Babcock & Wilcox,377.7,21.7
+Signal Companies,377.1,23.7
+Quaker Oats,375.8,15.5
+Scott Paper,370,36.3
+McGraw-Edison,368.3,15.4
+Ashland,366.1,18.1
+Champion Papers,364.4,15
+Republic Aviation,362,3.6
+Johnson & Johnson,359.2,20.4
+AMF,357.9,9.5
+Pet,357,14.2
+Celanese,356.3,32.6
+Kaiser Industries,354.6,9.1
+Container Corp. of America,352.2,18.8
+Northrop Grumman,347,9.1
+Anheuser-Busch,343.6,15.6
+Central Soya,342.8,6.5
+Armstrong Holdings,341.9,27.1
+Champion International,338.5,13
+Crane,337.4,5.4
+LTV,329,6.2
+Phelps Dodge,327.2,38.9
+Rockwell-Standard,326.7,20.2
+Cudahy,323.6,-2
+Zenith Electronics,323.6,20.9
+Kellogg,321.6,28.2
+Otis Elevator,321.4,6.5
+J.E. Seagram,318.4,16.8
+Brown Shoe,316.9,20.9
+Brunswick,315.7,-10.1
+Dana,311.7,20.9
+Intl. Multifoods,308.4,5
+BOC,306.4,16.7
+Mack Trucks,305.9,8.6
+USG,303.2,40.1
+Richfield Oil,301.6,27.9
+Lorillard,300.8,27.9
+Warner-Lambert,300.4,30.2
+Carrier,299,8.2
+Gillette,295.7,41.5
+Furniture Brands Intl.,295.6,5.5
+Koppers,292.8,7.3
+Timken,292.5,31
+Sherwin-Williams,291.8,15
+Combustion Engineering,291.6,7.3
+Westvaco,289.9,10.2
+Liggett Group,289.6,24.7
+Corning,289.2,31.6
+GATX,287.6,19.9
+Consolidation Coal,285.1,29
+Rohm & Haas,283.9,27.3
+A.O. Smith,281.8,6.1
+Dart Industries,280.5,12
+Oscar Mayer,278.9,6.2
+Flintkote,278.8,13.4
+Diamond International,278.1,15.9
+Texas Instruments,276.5,12.1
+"Libby, McNeill & Libby",276.3,3.1
+Owens Corning,274.2,12.5
+Thiokol,271.4,5.5
+Rath Packing,271.4,0.8
+Archer Daniels Midland,271.3,3.9
+Merritt-Chapman & Scott,269.4,2.9
+M. Lowenstein,265.5,2.2
+Fruehauf,265.4,16.8
+Merck,264.6,35.8
+Clark Equipment,263.5,15.8
+Walter Industries,261.1,4.7
+Allegheny International,259.1,10.8
+Skelly Oil,255.8,24.2
+Crucible Steel,253.1,9
+Sterling Drug,252.5,26.4
+H.K. Porter,251.7,4
+Cannon Mills,251.3,8.4
+Stauffer Chemical,251.1,19.9
+National Gypsum,250.3,22.5
+Collins Radio,250.1,3.7
+Universal American,249.4,4.3
+Ingersoll-Rand,249.1,26.9
+Avon Products,248.6,29.4
+Eltra,246.7,8
+Kaiser Steel,245,11.3
+Eli Lilly,241.9,25.8
+Revere Copper & Brass,241.5,7.3
+Dresser Industries,241.3,10.8
+Westinghouse Air Brake,241.2,9.3
+Glidden,241,7.5
+Cerro,240.1,12.7
+Aeroquip-Vickers,240,39.3
+Union Camp,238.8,17.1
+Wheeling Pittsburgh,235.9,8.4
+McLouth Steel,233.9,16.9
+Bristol-Myers Squibb,232.4,19.1
+Grinnell,231.4,7.9
+Farmland Industries,229.1,17
+Land O'Lakes,229.1,6.2
+ACF Industries,228.6,7.8
+Curtiss-Wright,226.7,10.1
+Budd,226.6,22.4
+Ethyl,226.6,13.6
+Newport News Shipbuilding,226.4,7.3
+Garrett,225.7,5.5
+Cone Mills,222.5,4
+Campbell Taggart,218.7,6.2
+PepsiCo,218.5,16.1
+OfficeMax,218.1,7.4
+General Precision Equipment,217.9,2.8
+Norton,216,14.1
+Abex,214.7,7.4
+Kerr-McGee,214.3,18.8
+Jos. Schlitz Brewing,214,12.9
+GK Technologies,213.7,11.1
+Emerson Electric,208.3,13
+Agway,206.2,3.5
+CF&I Steel,205.5,3.6
+Crown Holdings,205.4,9.6
+Admiral,203.9,3
+Hershey Foods,203,22.2
+US Pharmaceuticals,202.3,34
+Stokely-Van Camp,201.9,3.2
+Cluett Peabody,201.6,7.3
+Kelsey-Hayes,199.9,6
+Sunshine Biscuits,199.6,7.8
+USM,198,10.8
+Tecumseh Products,197,9.9
+Springs Industries,196.6,13.2
+Paccar,195.4,7.5
+Cummins,194.3,13.5
+Lear Siegler,193.1,4.8
+Kayser-Roth,192.4,7
+Pharmacia,191.7,25.8
+Studebaker-Worthington,190.9,4.2
+Continental Motors,190.8,3.2
+Midland-Ross,190.1,7.6
+"Parke, Davis",189.2,22.2
+Blaw-Knox,185.4,3.1
+Staley Continental,185.1,5.5
+Imcera Group,184.2,10.3
+R.R. Donnelley & Sons,184.1,14.3
+AM International,183.9,13.4
+Hooker Chemical,182.7,15.9
+Revlon,181,9.8
+Philadelphia & Reading,179.2,13.2
+Sunbeam/Oster,178.7,13.1
+North American Philips,177.8,5.6
+GAF,177.7,8.1
+Xerox,176,23
+WestPoint Stevens,175.9,6.8
+Times Mirror,175.4,13.6
+Magnavox,174.5,11.3
+Fairmont Foods,174,4.1
+Federal-Mogul,173.3,15.7
+Link-Belt,173,7.7
+McGraw-Hill,170.4,12.8
+Richardson-Vicks,169.9,17.5
+Gerber Products,169.6,10.6
+American Bakeries,169.5,1.9
+Scovill,169.3,4.4
+ESB,168.5,7.3
+Engelhard Industries,168.3,3.9
+Dan River,168.2,6.1
+Iowa Beef Processors,167.9,1.1
+Squibb,167,12.8
+Bemis,166.6,3.4
+Case,166.6,6.7
+Frito-Lay,165.2,6.6
+General Host,164.9,1.2
+Castle & Cooke,164.1,2.8
+Carborundum,162.2,6.4
+Schenley Industries,161.4,10.5
+Maxus Energy,160.1,10.7
+Peabody Coal,159.9,17.2
+Bell & Howell,159.3,4.1
+Ex-Cell-O,158.7,9.6
+Abbott Laboratories,158.6,17.7
+FINA,156,4.4
+Chemetron,155.7,6.7
+Interstate Brands,154.4,3
+Indian Head,153.4,2.5
+Outboard Marine,153.1,6.5
+Pittsburgh Steel,153,3.4
+Anchor Hocking,152.8,6.2
+Standard Packaging,152.3,2.9
+Inmont,152.2,6.6
+Curtis Publishing,152,-3.4
+Rockwell Manufacturing,151.2,10.1
+Eastern Gas & Fuel Associates,151.1,6.3
+Interlake,150.1,5.4
+Akzona,149.3,9.4
+Coltec Industries,148.5,-0.8
+Stanley Warner,146.7,3.3
+Evans Products,146.1,3.8
+Allied Mills,145.2,3
+Hearst Consolidated Publications,145.2,-9
+National Sugar Refining,145.2,2.6
+Murphy Oil,143.9,4.8
+Emhart,143.9,5.6
+Thomas J. Lipton,143.2,7.7
+Pabst Brewing,142.8,8
+ITT Rayonier,142.3,12.6
+Simmons,141.3,4.4
+Granite City Steel,140.2,6.7
+Cincinnati Milacron,140,4.6
+Amsted Industries,139.8,7.1
+Kendall,139.4,5.8
+Foster Wheeler,139.4,-3.2
+Cyclops Industries,139,6
+Amerada Hess,137.9,41.6
+Superior Oil,137.1,21.7
+Pennwalt Corp,136.2,8.1
+Sharon Steel,135.9,0.6
+U.S. Pipe & Foundry,135.5,5.9
+Square D,134.2,15.8
+Pacolet Industries,133.3,-0.6
+Ward Foods,133.3,-2.6
+Certainteed,133.2,3.1
+Falstaff Brewing,132.1,6.3
+Colorado Milling & Elevator,131.9,0.9
+Packaging Corp. of America,131.5,2.8
+Kern County Land,130.7,17.4
+Stewart-Warner,128.9,9.6
+Keebler,128.8,1.5
+Beaunit,128.8,3.9
+Potlatch,127.9,3.5
+Cowles Communications,127.4,3.5
+Purex Industries,126.9,5.7
+Lone Star Industries,126.8,14.5
+Stanley Works,126.8,4.2
+Cutler-Hammer,126.7,5.3
+National Can,126.6,3
+Trans Union,126.4,8.2
+Ideal Basic Industries,126.4,17.2
+American Chain & Cable,126,5.3
+KVP Sutherland Paper,125.5,5
+Baldwin-Lima-Hamilton,124.8,1
+Hanna Mining,124.6,12.4
+Armstrong Rubber,124.5,4.2
+Fibreboard,124.5,4.1
+McCall,124.4,3
+Keystone Consolidated Industries,124,7
+Polaroid,123.5,11.2
+Southern States Cooperative,122.9,3
+Witco,122.8,4.7
+Bliss (E.W.),121.9,3.6
+Maremont,121.4,2.2
+Inland Container,121.3,7.1
+Hammermill Paper,121.1,4.4
+Trane,120.4,8.3
+Botany Industries,119.7,1.9
+Glen Alden,118.8,7.9
+Endicott Johnson,118.4,-2.8
+Olivetti Underwood,117.9,-6.4
+Ruberoid,117.4,3.2
+Safety-Kleen,117.3,1.7
+Maytag,117.2,14
+Hupp,117.2,4.4
+Rheem Manufacturing,117,4.1
+Chesebrough-Pond's,116.9,8.1
+Fairchild Camera & Instrument,116.4,2.7
+Riegel Paper,116.4,3.9
+Eagle-Picher Industries,116.2,3.6
+Vulcan Materials,116,7.3
+Hewlett-Packard,115.9,7.1
+Consolidated Cigar,115.6,8.6
+Fieldcrest Cannon,115.5,5.1
+Di Giorgio,115.3,2.1
+Grolier,115.1,6.5
+International Pipe & Ceramics,113.7,5.4
+Wyandotte Chemicals,112.6,4.8
+Calumet & Hecia,112.2,2.3
+Wm. Wrigley Jr.,111.5,10.8
+Todd Shipyards,111.5,1.4
+Kellwood,111.3,2.1
+Reichhold Chemicals,110.7,2.2
+Houdaille Industries,110.7,4.9
+Collins & Aikman,110.3,3.6
+I-T-E Imperial,110.2,0.3
+Great Western Sugar,109.6,7
+Howmet,109.6,2.2
+Champion Spark Plug,109.3,15
+Royal McBee,109.2,1.4
+American Optical,109.2,3.7
+Miles Laboratories,107.8,6.3
+Mohasco,107.8,3
+Alco Products,107.6,3.4
+Western Publishing Group,107,5.3
+Hartmarx,106.9,3.4
+Air Products & Chem.,106.7,6.1
+Ekco Products,106.2,6.4
+Woodward Iron,105.8,6.5
+Standard Pressed Steel,105.5,1.1
+Cabot,105.4,10.8
+MacMillan,105.2,4.4
+General Steel Industries,104.5,4.9
+Canada Dry,104.3,3.7
+Commonwealth Oil Refining,104.3,10.6
+Rohr,104.2,2
+Wagner Electric,103.9,2.6
+Clevite,103.1,6.9
+Seaboard,102.9,0.9
+Handy & Harman,102.4,1.1
+Farmers Union Central Exchange,101.8,9.4
+Arvin Industries,101.6,4.3
+Copperweld Steel,101.4,3.7
+New York Times,101.3,1.1
+Flavorland Industries,101,0.3
+Eastern States Farmers' Exch.,99,1.9
+P.R. Mallory,98.1,6.3
+Briggs & Stratton,98,10.6
+Jonathan Logan,97.5,4.3
+Universal Match,97.1,3.1
+Joy Technologies,96.9,3.3
+Lily-Tulip Cup,96.8,5.1
+Harbison-Walker Refractories,96.8,7.8
+Lukens Steel,96.8,5.1
+Pepperell Manufacturing,96.5,3.8
+Cessna Aircraft,96.4,4.2
+U.S. Industries,96,-5.5
+Chicago Pneumatic Tool,95.3,9.6
+Raybestos-Manhattan,95.2,4.4
+Federal Pacific Electric,95,1.7
+American Biltrite Rubber,94.8,3.2
+Gardner-Denver,94.8,9.4
+Federal Paper Board,94.3,1.9
+Ampex,93.3,5
+Island Creek Coal,93.2,4.3
+Hobart,92.8,6.5
+Miehle-Goss-Dexter,92.7,3.9
+Schering-Plough,92.6,10.5
+Gould-National Batteries,92.5,4.1
+Mead Johnson,92.3,4.3
+Ceco Industries,91.7,2.6
+Bucyrus-Erie,91.5,3.2
+Detroit Steel,91.2,4.6
+Duncan Foods,91.2,1.8
+Savannah Sugar Refining,91,2.7
+Rexnord,90.8,4
+U.S. Shoe,90.4,5.4
+Pitney Bowes,90.4,7.4
+Bond Stores,90.3,2.1
+Atlas Chemical Industries,90.2,4.1
+Insilco,89.6,3.8
+Northwestern Steel & Wire,89,4.7
+Harsco,88.8,8.4
+Harris,88.5,6.5
+Bibb Manufacturing,88,2.1
+Bigelow-Sanford,87.6,3
+Cooper Industries,87.1,3.3
+Masonite,86.8,6.2
+Robertson-Ceco,86.2,2.4
+Commercial Solvents,86.2,6
+Consolidated Papers,86.2,5.2
+Permanente Cement,86,7.7
